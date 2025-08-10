@@ -8,7 +8,7 @@ generating actionable insights
 
 This is designed as a portfolio project highlights best practices followed in Data Engineering and Analytics
 
-## Objective : Develop a modern data warehouse using SQL Server to combine Sales Data, Enabling Data Analytical reporting and informed decision making
+## Objective :## Develop a modern data warehouse using SQL Server to combine Sales Data, Enabling Data Analytical reporting and informed decision making
 
 ### **Specs:**
 
