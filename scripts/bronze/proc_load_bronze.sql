@@ -10,6 +10,7 @@ it does TURNCATE the existing tables and BULK INSERT data into new formed ones
 NO PARAMETER NEEDED
 CALL CODE:
 EXEC bronze.load_bronze;
+================================================================
 */
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
 
