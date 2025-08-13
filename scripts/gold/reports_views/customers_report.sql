@@ -2,7 +2,7 @@
 ========================================================================
 gold.customers_report
 ========================================================================
-Purpose : Create or edit a view that helps data analysts to have an insight on the data 
+Purpose : Create or edit a view that helps data analysts to have an insight on the data of customers
 after being cleaned and inclusive 
 ========================================================================
 */
