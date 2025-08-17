@@ -91,7 +91,7 @@ The warehouse is designed using the **Medallion Architecture** approach:
 
 ---
 
-##🔎 Want to explore the project in detail?  
+## 🔎 Want to explore the project in detail?  
 Check out the **[Full Project Walkthrough on Notion](https://powerful-find-2b5.notion.site/Data-Warehouse-Project-906f748d783549d09e6d30b00bcc4647)**.  
 
 
