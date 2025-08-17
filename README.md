@@ -76,7 +76,7 @@ The warehouse is designed using the **Medallion Architecture** approach:
 ---
 
 ## 📚 Documentation  
-- [ERD Diagram]([link-to-ERD-image](https://www.notion.so/image/attachment%3A562a1bb9-9fcb-4870-a213-206c50b9d6df%3AData_mart_star_schema.jpg?table=block&id=24d32973-7503-8067-b7d3-e5a8f9895fff&spaceId=18c93ec7-a644-487e-9f3a-b3fc89f5cdd2&width=1420&userId=48d6ae8f-6b82-4228-bee4-938f3917016d&cache=v2))  
+- [ERD Diagram]([<img width="911" height="464" alt="image" src="https://github.com/user-attachments/assets/b858ffda-4b61-466c-81a1-baf1eb488380" />])
 - [Data Catalog](docs/data_catalog.md)  
 - [SQL Scripts](scripts)  
 
