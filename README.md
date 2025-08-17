@@ -55,7 +55,8 @@ The warehouse is designed using the **Medallion Architecture** approach:
 - **Dimensions**: Customer, Product, Region, Time, Sales Rep  
 - **Relationships**: Star Schema for optimized analytical queries  
 
-*(Insert ERD diagram here if you have one — or a screenshot from SQL Server Management Studio)*  
+*(<img width="911" height="464" alt="image" src="https://github.com/user-attachments/assets/83b09593-412f-4e82-ae95-d6748f0bca00" />
+)*  
 
 ---
 
