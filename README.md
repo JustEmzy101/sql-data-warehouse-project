@@ -42,31 +42,6 @@ Develop a modern data warehouse that integrates sales data from multiple sources
 
 The warehouse is designed using the **Medallion Architecture** approach:  
 
-        +-------------------+
-        |   Raw Data (CSV)  |
-        +-------------------+
-                 |
-                 v
-   +---------------------------+
-   |   Bronze Layer (Staging)  |
-   +---------------------------+
-                 |
-                 v
-   +---------------------------+
-   |  Silver Layer (Cleaned)   |
-   +---------------------------+
-                 |
-                 v
-   +---------------------------+
-   |   Gold Layer (Curated)    |
-   +---------------------------+
-                 |
-                 v
-   +---------------------------+
-   |    BI & Analytics Layer   |
-   +---------------------------+
-
-
 - **Bronze** → Raw ingested data (as-is from CRM & ERP)  
 - **Silver** → Data cleaning, transformation, deduplication, normalization  
 - **Gold** → Final business-friendly schema optimized for reporting  
@@ -100,9 +75,9 @@ The warehouse is designed using the **Medallion Architecture** approach:
 ---
 
 ## 📚 Documentation  
-- [ERD Diagram](link-to-ERD-image)  
-- [Data Dictionary](link-to-doc)  
-- [SQL Scripts](link-to-scripts)  
+- [ERD Diagram]([link-to-ERD-image](https://www.notion.so/image/attachment%3A562a1bb9-9fcb-4870-a213-206c50b9d6df%3AData_mart_star_schema.jpg?table=block&id=24d32973-7503-8067-b7d3-e5a8f9895fff&spaceId=18c93ec7-a644-487e-9f3a-b3fc89f5cdd2&width=1420&userId=48d6ae8f-6b82-4228-bee4-938f3917016d&cache=v2))  
+- [Data Catalog](docs/data_catalog.md)  
+- [SQL Scripts](scripts)  
 
 ---
 
@@ -115,4 +90,4 @@ The warehouse is designed using the **Medallion Architecture** approach:
 
 ## 🤝 Connect  
 👤 **Author:** Marwan Zidane  
-🔗 [LinkedIn](your-linkedin) | [GitHub](https://github.com/marwanzidane)  
+🔗 [LinkedIn](your-linkedin) | [GitHub](https://github.com/JustEmzy101)  
