@@ -55,8 +55,8 @@ The warehouse is designed using the **Medallion Architecture** approach:
 - **Dimensions**: Customer, Product, Region, Time, Sales Rep  
 - **Relationships**: Star Schema for optimized analytical queries  
 
-*<img width="911" height="464" alt="image" src="https://github.com/user-attachments/assets/83b09593-412f-4e82-ae95-d6748f0bca00" />
-*  
+<img width="911" height="464" alt="image" src="https://github.com/user-attachments/assets/83b09593-412f-4e82-ae95-d6748f0bca00" />
+
 
 ---
 
