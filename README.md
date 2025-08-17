@@ -3,7 +3,7 @@
 ## 📌 Overview  
 This project demonstrates the design and implementation of a **modern data warehouse** using **SQL Server**, including **ETL processes, data modeling, and analytics**.  
 
-📄 **[Full Project Documentation (Notion)](https://notion.link.here](https://powerful-find-2b5.notion.site/Data-Warehouse-Project-906f748d783549d09e6d30b00bcc4647)**  
+📄 **[Full Project Documentation (Notion)](https://notion.link.here](https://powerful-find-2b5.notion.site/Data-Warehouse-Project-906f748d783549d09e6d30b00bcc4647))**  
 
 It represents an end-to-end solution built entirely from scratch on my local machine — starting with raw CSVs and finishing with **clean, business-ready datasets** that can be directly consumed by BI tools (e.g., Power BI, Tableau).  
 
